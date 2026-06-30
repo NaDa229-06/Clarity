@@ -108,7 +108,7 @@ body {
   border-radius: 2px;
 }
 
-.nav-link.active::after { width: 100%; }
+.nav-link.active::after { width: 100%;}
 
 .dropdown-menu {
   background: var(--white);
